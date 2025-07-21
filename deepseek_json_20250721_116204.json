@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "public": true,
+  "rewrites": [
+    {
+      "source": "/api/send",
+      "destination": "/api/send.js"
+    }
+  ],
+  "env": {
+    "API_KEY": "@smsbomer-api-key"
+  }
+}
