@@ -1,0 +1,14 @@
+{
+  "name": "smsbomer",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "serve public"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "devDependencies": {
+    "vercel": "^28.16.11"
+  }
+}
